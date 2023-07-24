@@ -64,7 +64,6 @@ create an application on their local machine and be confident that it will run i
 This eliminates the common "it works on my machine" issue and streamlines the development and deployment process.
 
 [Read more about containerization](https://www.ibm.com/topics/containerization)\
-
 [Read more about Docker](https://docs.docker.com/?_gl=1*hg2i1a*_ga*MjAwNDY3OTU2Mi4xNjkwMjQwNDU4*_ga_XJWPQMJYHQ*MTY5MDI0MDQ1OC4xLjEuMTY5MDI0MDQ4MS4zNy4wLjA.)
 
 
