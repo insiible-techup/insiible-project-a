@@ -63,7 +63,7 @@ The primary advantage of containerization is its portability and consistency. Si
 create an application on their local machine and be confident that it will run identically in any environment that supports containers.
 This eliminates the common "it works on my machine" issue and streamlines the development and deployment process.
 
-[Read more about containerization](https://www.ibm.com/topics/containerization)
+[Read more about containerization](https://www.ibm.com/topics/containerization)\
 
 [Read more about Docker](https://docs.docker.com/?_gl=1*hg2i1a*_ga*MjAwNDY3OTU2Mi4xNjkwMjQwNDU4*_ga_XJWPQMJYHQ*MTY5MDI0MDQ1OC4xLjEuMTY5MDI0MDQ4MS4zNy4wLjA.)
 
@@ -81,7 +81,7 @@ One of the most popular orchestration tools is Kubernetes, which automates the d
 developers can define their desired state and let the platform manage the underlying infrastructure to ensure that the application runs as intended.
 
 
-[Read more about Kubernetes](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-kubernetes/#overview)
+[Read more about Kubernetes](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-kubernetes/#overview)\
 [Read Helm doc](https://helm.sh/docs/)
 
 
@@ -96,8 +96,8 @@ Any changes to the system are made through pull requests and commits to the repo
 The core idea of GitOps is that the entire deployment process is declarative, meaning the desired state of the system is clearly defined and version-controlled. This 
 eliminates the need for manual interventions and ad-hoc changes, leading to a more robust and auditable deployment process.
 
-[Read more about GitOps](https://about.gitlab.com/topics/gitops/)
-[More about gitops](https://www.atlassian.com/git/tutorials/gitops)
+[Read more about GitOps](https://about.gitlab.com/topics/gitops/)\
+[More about gitops](https://www.atlassian.com/git/tutorials/gitops)\
 [Even More gitops](https://www.gitops.tech/)
 
 
