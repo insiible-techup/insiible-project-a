@@ -1,4 +1,4 @@
-# insiible-project-a
+# Argocd Secret Management
 
 This project is the first of our capstone projects and will target the implementation part of the training
 showcasing the skills we've picked up through out the session;
